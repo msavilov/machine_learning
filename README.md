@@ -26,11 +26,11 @@
 
 
 ### Проекты
-1) [California Housing Prices](#California_Housing_Prices)
+1) [California Housing Prices](#california_housing_prices)
 
 
 
-#### California Housing Prices
+#### California_Housing_Prices
 
 ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
 
