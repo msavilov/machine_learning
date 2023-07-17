@@ -26,11 +26,12 @@
 
 
 ### Проекты
-1) California Housing Prices(#california_housing_prices)
+1) [California Housing Prices](#california_housing_prices)
 
 
 
-California Housing Prices
+#### California Housing Prices
+
 ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
 
 Предсказание цены недвижимости на основе датасета California Housing Prices на [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
