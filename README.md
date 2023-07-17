@@ -26,7 +26,7 @@
 
 
 ### Проекты
-1) [California Housing Prices](#california_housing_prices)
+1) [California Housing Prices](#California_Housing_Prices)
 
 
 
