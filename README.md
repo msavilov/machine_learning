@@ -34,4 +34,8 @@
 
 ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
 
-Предсказание цены недвижимости на основе датасета California Housing Prices на [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
+Предсказание цены недвижимости на основе датасета California Housing Prices на [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices). Датасет содержит данные из переписи населения в 1990 г.
+
+[Ссылка](https://github.com/msavilov/machine_learning/tree/main/housing_price)
+
+
