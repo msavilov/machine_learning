@@ -42,6 +42,9 @@ Structure of project:
 - preprocessing.py - data preprocessing before ML
 - operations.py - save/load files
 
-[Link](https://github.com/msavilov/machine_learning/tree/main/housing_price)
+Install this project:
 
-
+```
+$ git clone https://github.com/ageron/housing_price.git
+$ cd housing_price
+```
