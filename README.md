@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Pipeline_Machine_Learning
-=======
 # Pipeline_Machine_Learning
 ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
 
@@ -29,4 +26,12 @@
 
 
 ### Проекты
->>>>>>> ea1211fb92a938bfeb79bef68ccd8f254ccefcf5
+1) [California Housing Prices](#california_housing_prices)
+
+
+
+#### California_Housing_Prices
+
+![](https://img.shields.io/badge/Project%20status-In%20progress-green)
+
+Предсказание цены недвижимости на основе датасета California Housing Prices на [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
