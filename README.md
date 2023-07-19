@@ -36,6 +36,12 @@
 
 Предсказание цены недвижимости на основе датасета California Housing Prices на [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices). Датасет содержит данные из переписи населения в 1990 г.
 
-[Ссылка](https://github.com/msavilov/machine_learning/tree/main/housing_price)
+Structure of project:
+- load_data.py - download dataset
+- models.py - models
+- preprocessing.py - data preprocessing before ML
+- operations.py - save/load files
+
+[Link](https://github.com/msavilov/machine_learning/tree/main/housing_price)
 
 
